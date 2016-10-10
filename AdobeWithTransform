@@ -1,0 +1,1 @@
+Execute-Process -FilePath "PATH\TO\Installer.exe" -Arguments "TRANSFORMS=PATH\TO\TRANSFORM /msi /qn" 
